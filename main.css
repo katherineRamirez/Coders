@@ -1,19 +1,22 @@
 h3{
 	margin-left: 50px;
 }
+/*linea debajo del titulo*/
 hr {
   height: 5px;
   width: 100px;
   background-color: black;
   margin-right: 1700px;
 }
+/*contenedor 3 primeras fotos de arriba */
 .contenedor1{
 	margin-left: 50px;
 }
+/*contenedor 3 fotos de abajo */
 .contenedor2{
 	margin-top: 200px;
 	margin-left: 50px;
-}
+/*color nombres*/
 h6{
 	color: white;
 }
